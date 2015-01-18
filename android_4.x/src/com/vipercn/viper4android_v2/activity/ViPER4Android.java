@@ -1,3 +1,5 @@
+//information 
+// 1253line>> icon change
 package com.vipercn.viper4android_v2.activity;
 
 import android.app.ActionBar;
@@ -1246,6 +1248,9 @@ public final class ViPER4Android extends Activity {
                     mTitles,
                     R.layout.drawer_item,
                     new String[]{"ICON", "TITLE"},
+
+
+//icon change
                     new int[]{R.id.drawer_icon, R.id.drawer_title}));
             mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
 
@@ -1263,11 +1268,16 @@ public final class ViPER4Android extends Activity {
             pagerTabStrip = (PagerTabStrip) findViewById(R.id.pagerTabStrip);
 
             pagerTabStrip.setDrawFullUnderline(true);
-            pagerTabStrip.setTabIndicatorColor(
-                    getResources().getColor(R.color.action_bar_divider));
+pagerTabStrip.setTabIndicatorColorResource(R.color.primary);
 
         }
     }
+// 
+//            pagerTabStrip.setTabIndicatorColor(
+//                    getResources().getColor(R.color.action_bar_divider));
+//
+//        }
+//    }
 
     public void saveProfileDialog() {
         // We first list existing profiles

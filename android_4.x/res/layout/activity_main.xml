@@ -14,13 +14,14 @@
  You should have received a copy of the GNU General Public License
  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<com.vipercn.viper4android_v2.widgets.CustomDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ <com.vipercn.viper4android_v2.widgets.CustomDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/v4a_drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:animateLayoutChanges="true"
     tools:context=".ViPER4android">
+ 
 
     <FrameLayout
         android:id="@+id/v4a_container"
@@ -30,7 +31,7 @@
     <ListView xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         android:id="@+id/v4a_navigation_drawer"
-        android:background="@drawable/pager_background"
+        android:background="#AB47BC"
         android:layout_width="260dp"
         android:layout_height="match_parent"
         android:layout_gravity="start"

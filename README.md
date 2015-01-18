@@ -3,6 +3,9 @@ viper4android_fx
 
 ViPER4Android FX Control Panel<br />
 <br />
+
+V4A Material UI
+
 [English Readme]<br />
 The source code of control panel is based on Cyanogenmod's DSPManager.<br />
 <br />
@@ -20,19 +23,19 @@ Notice:<br />
 5.The ViPER4Android driver (libv4a_xxx_xxx.so) is restrict disallowed in commercial use.<br />
 <br />
 <br />
-[ÖÐÎÄËµÃ÷]<br />
-¿ØÖÆÃæ°åµÄÔ´´úÂëÊÇ»ùÓÚCyanogenmodµÄDSPManagerËù×ö¡£<br />
+[ï¿½ï¿½ï¿½ï¿½Ëµï¿½ï¿½]<br />
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´ï¿½ï¿½ï¿½ï¿½ï¿½Ç»ï¿½ï¿½ï¿½Cyanogenmodï¿½ï¿½DSPManagerï¿½ï¿½ï¿½ï¿½<br />
 <br />
-´úÂëÊ¹ÓÃ·½·¨£º<br />
-    1¡¢½«´úÂëCloneµ½±¾µØ¡£<br />
-    2¡¢ÔÚEclipseÖÐÒÔ°²×¿¹¤³ÌµÄ·½Ê½µ¼Èë¡£<br />
-    3¡¢ÔÚ¹¤³ÌµÄÅäÖÃ½çÃæÖÐ£¬ÒÔÍâ²¿¿âµÄ·½Ê½µ¼Èë"RootTools-2.6.jar"¡£<br />
-    4¡¢ÐÞ¸Ä²¢±àÒë¹¤³Ì¡£<br />
+ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½Ã·ï¿½ï¿½ï¿½ï¿½ï¿½<br />
+    1ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cloneï¿½ï¿½ï¿½ï¿½ï¿½Ø¡ï¿½<br />
+    2ï¿½ï¿½ï¿½ï¿½Eclipseï¿½ï¿½ï¿½Ô°ï¿½×¿ï¿½ï¿½ï¿½ÌµÄ·ï¿½Ê½ï¿½ï¿½ï¿½ë¡£<br />
+    3ï¿½ï¿½ï¿½Ú¹ï¿½ï¿½Ìµï¿½ï¿½ï¿½ï¿½Ã½ï¿½ï¿½ï¿½ï¿½Ð£ï¿½ï¿½ï¿½ï¿½â²¿ï¿½ï¿½Ä·ï¿½Ê½ï¿½ï¿½ï¿½ï¿½"RootTools-2.6.jar"ï¿½ï¿½<br />
+    4ï¿½ï¿½ï¿½Þ¸Ä²ï¿½ï¿½ï¿½ï¿½ë¹¤ï¿½Ì¡ï¿½<br />
 <br />
-×¢Òâ£º<br />
-    1¡¢Ô´´úÂëÖÐ°üº¬°²×¿2.3ºÍ°²×¿4.xµÄAPK´úÂë£¬µ¼Èë¹¤³ÌÊ±ÇëÑ¡ÔñÕýÈ·µÄÂ·¾¶¡£<br />
-    2¡¢Èç¹ûÄã´òËãÌí¼ÓÒ»ÖÖÐÂµÄ±¾µØÓïÑÔ·­Òë£¬Çë²»Òª¸Ä¶¯"text_user_statistics"¡£<br />
-    3¡¢´úÂëµÄÌá½»ËµÃ÷±ØÐëÎªÓ¢ÎÄ¡£<br />
-    4¡¢Èç¹ûÄã´òËã×öÒ»¸öÖØ´óµÄ¸Ä½ø£¬ÇëÍ¨ÖªÎÒ²¢´´½¨Ò»¸öÐÂµÄ·ÖÖ§£¬²»ÒªÔÚmaster·ÖÖ§ÖÐ¼ÓÈëÈÎºÎÎ´¾­²âÊÔ»ò²»ÎÈ¶¨µÄ´úÂë¡£<br />
-    5¡¢ViPER4AndroidµÄÇý¶¯³ÌÐò(libv4a_xxx_xxx.so)ÑÏ½ûÓÃÔÚÉÌÒµÓÃÍ¾¡£<br />
+×¢ï¿½â£º<br />
+    1ï¿½ï¿½Ô´ï¿½ï¿½ï¿½ï¿½ï¿½Ð°ï¿½×¿2.3ï¿½Í°ï¿½×¿4.xï¿½ï¿½APKï¿½ï¿½ï¿½ë£¬ï¿½ï¿½ï¿½ë¹¤ï¿½ï¿½Ê±ï¿½ï¿½Ñ¡ï¿½ï¿½ï¿½ï¿½È·ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½<br />
+    2ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ÂµÄ±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô·ï¿½ï¿½ë£¬ï¿½ë²»Òªï¿½Ä¶ï¿½"text_user_statistics"ï¿½ï¿½<br />
+    3ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½á½»Ëµï¿½ï¿½ï¿½ï¿½ï¿½ÎªÓ¢ï¿½Ä¡ï¿½<br />
+    4ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½Ø´ï¿½Ä¸Ä½ï¿½ï¿½ï¿½Í¨Öªï¿½Ò²ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ÂµÄ·ï¿½Ö§ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½masterï¿½ï¿½Ö§ï¿½Ð¼ï¿½ï¿½ï¿½ï¿½Îºï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ô»ï¿½ï¿½È¶ï¿½ï¿½Ä´ï¿½ï¿½ë¡£<br />
+    5ï¿½ï¿½ViPER4Androidï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(libv4a_xxx_xxx.so)ï¿½Ï½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òµï¿½ï¿½Í¾ï¿½ï¿½<br />
 <br />
