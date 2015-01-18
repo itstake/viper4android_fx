@@ -6,6 +6,9 @@ ViPER4Android FX Control Panel<br />
 
 V4A Material UI
 
+[Korean Readme]<br />
+ 이 프로젝트는 Cyanogenmod의 DSPManager기반으로 제작되었습니다. 빌드된 APK파일은 /bin폴더 안에서 찾아보실 수 있습니다. 
+
 [English Readme]<br />
 The source code of control panel is based on Cyanogenmod's DSPManager.<br />
 <br />
